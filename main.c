@@ -5,5 +5,6 @@
 
 int main(int argc, char *argv[]) {
 	int abc;
+	int d;
 	return 0;
 }
